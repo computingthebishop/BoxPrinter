@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/sergi/.platformio/penv/bin:/home/sergi/.platformio/penv:/home/sergi/ComputingTheBishop/labrobotica/algoritms/distro/install/bin:/home/sergi/ComputingTheBishop/labrobotica/algoritms/distro/install/bin:/home/sergi/.local/bin:/home/sergi/ComputingTheBishop/labrobotica/algoritms/distro/install/bin:/home/sergi/ComputingTheBishop/labrobotica/algoritms/distro/install/bin:/opt/ros/melodic/bin:/home/sergi/ComputingTheBishop/labrobotica/algoritms/distro/install/bin:/home/sergi/ComputingTheBishop/labrobotica/algoritms/distro/install/bin:/home/sergi/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
