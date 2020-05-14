@@ -1,0 +1,8 @@
+{if layer_z==7.85}M104 S255{endif};
+{if layer_z==14.75}M104 S250{endif};
+{if layer_z==21.35}M104 S245{endif};
+{if layer_z==28.25}M104 S240{endif};
+{if layer_z==34.85}M104 S235{endif};
+{if layer_z==41.45}M104 S230{endif};
+{if layer_z==48.35}M104 S235{endif};
+{if layer_z==54.95}M104 S220{endif};
