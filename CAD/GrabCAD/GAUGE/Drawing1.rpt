@@ -1,0 +1,67 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 
+Receiving System Product I.D.: 
+File Name                    : Drawing1
+Sending System               : AutoCAD 2020 - English
+Preprocessor Version         : Autodesk Translation Framework DWG producer (atf_dwg_producer)
+File Creation Date           : 20200515.210531
+Model Creation Date          : 20200515.172959
+Units                        : MM
+Model Space Scale            : 1
+Author                       : 
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                     14
+  Average number of significant digits:                    3.4
+  Maximum distance to origin:                                1
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+110  Line                                             1         1
+126  Rational B-spline curve                       2034      2034
+128  Rational B-spline surface                      805       805
+186  Manifold Solid B-rep Object                     10        10
+314  Color definition                                 1         1
+406  Property                                        12        12
+502  Vertex list                                     10        10
+504  Edge entity                                     10        10
+508  Loop entity                                    839       839
+510  Face entity                                    805       805
+514  Shell entity                                    10        10
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       10
+Surface feature(s)                     0
+Curve/Sketch feature(s)                1
+--------------------------------------------
+Start time: viernes, mayo 22, 2020 16:18:30
+Finish time: viernes, mayo 22, 2020 16:18:38
+Processing time: 0 days, 00 hours, 00 mins, 08 secs
